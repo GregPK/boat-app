@@ -1,0 +1,6 @@
+[submodule "boat-app-api"]
+	path = boat-app-api
+	url = git@github.com:GregPK/boat-app-api.git
+[submodule "boat-app-react"]
+	path = boat-app-react
+	url = git@github.com:GregPK/boat-app-react.git
